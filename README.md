@@ -3,6 +3,32 @@ set NODE_OPTIONS=--openssl-legacy-provider
 run in node js version 16
 available from here:
 https://nodejs.org/download/release/v16.20.2/
+hashing done by bcrypt
+
+
+LOGIN:
+username (str)
+password (str)
+
+ACCOUNT:
+accountId (int)
+accountName (str)
+username (str)
+
+BUG:
+bugId (int)
+bugStatus (char): open, in progress, closed
+bugTitle (str)
+bugDescription (str)
+bugPriority (int): low, mid, high
+
+(the opening, in progress and closing / bug priority of a bug will register a default update here as well)
+UPDATE:
+bugId (int)
+accountId (int) 
+updateDate (date)
+updateDetails (str)
+
 
 
 # Getting Started with Create React App
