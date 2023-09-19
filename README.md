@@ -1,5 +1,8 @@
 NPM INSTALL
 set NODE_OPTIONS=--openssl-legacy-provider
+run in node js version 16
+available from here:
+https://nodejs.org/download/release/v16.20.2/
 
 
 # Getting Started with Create React App
