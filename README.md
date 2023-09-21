@@ -17,7 +17,7 @@ username (str)
 
 BUG:
 bugId (int)
-bugStatus (char): open, in progress, closed
+bugStatus (int): 1, 2, 3
 bugTitle (str)
 bugDescription (str)
 bugPriority (int): low, mid, high

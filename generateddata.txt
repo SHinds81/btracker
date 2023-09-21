@@ -1,0 +1,318 @@
+Username: jollybutterfly | Password: 8d5e9f
+Username: happybutterfly | Password: a2b3c4
+Username: sillybutterfly | Password: d6e7f8
+Username: funnybutterfly | Password: g9h0i1
+Username: playfulbutterfly | Password: 2j3k4l
+Username: cheekybutterfly | Password: 5m6n7o
+Username: coolbutterfly | Password: p8q9r0
+Username: awesomebutterfly | Password: 1s2t3u
+Username: bravebutterfly | Password: v4w5x6
+Username: smartbutterfly | Password: y7z8a9
+Username: kindbutterfly | Password: 0bcd1e
+Username: gentlebutterfly | Password: f2gh3i
+Username: lovelybutterfly | Password: j4kl5m
+Username: beautifulbutterfly | Password: n6op7q
+Username: prettybutterfly | Password: r8st9u
+Username: gracefulbutterfly | Password: v0wx1y
+Username: wonderfulbutterfly | Password: z2a3b4
+Username: magicalbutterfly | Password: c5d6e7
+Username: fantasticbutterfly | Password: f8g9h0
+Username: amazingbutterfly | Password: i1j2k3
+Username: energeticbutterfly | Password: l4m5n6
+Username: excitingbutterfly | Password: o7p8q9
+Username: creativebutterfly | Password: r0s1t2
+Username: talentedbutterfly | Password: u3v4w5
+Username: cleverbutterfly | Password: x6y7z8
+Username: friendlybutterfly | Password: a9bc0d
+Username: helpfulbutterfly | Password: e1fg2h3
+Username: curiousbutterfly | Password: i4jk5l6
+Username: adventurousbutterfly | Password: m7no8p9 
+Username: independentbutterfly | Password: q0rs1t2
+
+Sure! Here are 30 randomly generated names:
+
+1. **Landon Mccarthy**
+2. **Avery Mckinney**
+3. **Makayla Mcbride**
+4. **Jovanny Mccormick**
+5. **Kamryn Mcbride**
+6. **Jovanny Mckinney**
+7. **Landon Mccormick**
+8. **Makayla Mccarthy**
+9. **Avery Mccormick**
+10. **Kamryn Mckinney**
+11. **Jovanny Mccarthy**
+12. **Makayla Mckinney**
+13. **Avery Mcbride**
+14. **Kamryn Mccormick**
+15. **Landon Mcbride**
+16. **Jovanny Mccarthy**
+17. **Makayla Mccormick**
+18. **Avery Mcbride**
+19. **Kamryn Mckinney**
+20. **Jovanny Mccormick**
+21. **Landon Mcbride**
+22. **Makayla Mckinney**
+23. **Avery Mccarthy**
+24. **Kamryn Mccormick**
+25. **Jovanny Mcbride**
+26. **Landon Mckinney**
+27. **Makayla Mccarthy**
+28. **Avery Mcbride**
+29. **Kamryn Mccormick**
+30. **Jovanny Mcbride**
+
+I hope you find these names helpful!
+
+Source: Conversation with Bing, 19/09/2023
+(1) Random Name Generator — Generated full names. https://www.randomlists.com/random-names.
+(2) Random Name Picker - Draw a random name (or names) from a list. https://www.gigacalculator.com/randomizers/random-name-picker.php.
+(3) Quick Name Generator. https://www.name-generator.org.uk/quick/.
+(4) Random Name Generator: 10,000+ Name Ideas | Imagine Forest. https://www.imagineforest.com/blog/random-name-generator/.
+
+
+Sure! Here are 50 randomly generated example bug titles and descriptions:
+
+1. **Title**: Incorrect Calculation of Total Price
+   **Description**: The total price of the order is calculated incorrectly, resulting in an incorrect amount being charged to the customer. This issue occurs when multiple items are added to the cart.
+
+2. **Title**: Images Not Loading on Product Page
+   **Description**: The product images are not loading on the product page, making it difficult for customers to view the product before making a purchase. This issue occurs on both desktop and mobile devices.
+
+3. **Title**: Login Page Not Secure
+   **Description**: The login page does not have a secure connection, leaving user credentials vulnerable to interception by malicious actors. This issue poses a significant security risk and should be addressed immediately.
+
+4. **Title**: Application Crashes on Startup
+   **Description**: The application crashes immediately after startup, preventing users from accessing any functionality. This issue occurs consistently and affects all users.
+
+5. **Title**: Incorrect Sorting of Search Results
+   **Description**: The search results are not sorted correctly, with relevant items appearing lower in the list than less relevant ones. This issue affects the usability of the search feature.
+
+6. **Title**: Missing Error Message for Invalid Input
+   **Description**: When entering invalid input into a form field, no error message is displayed to indicate the issue. This can lead to confusion and frustration for users trying to submit valid data.
+
+7. **Title**: Slow Performance When Loading Large Dataset
+   **Description**: The application experiences significant slowdowns when loading a large dataset, causing delays in data retrieval and processing. This issue affects users working with large amounts of data.
+
+8. **Title**: Inconsistent Font Sizes Across Pages
+   **Description**: The font sizes used on different pages of the application are inconsistent, resulting in a visually unappealing and unprofessional appearance. This issue affects the overall user experience.
+
+9. **Title**: Broken Links in Navigation Menu
+   **Description**: Several links in the navigation menu are broken, leading to 404 errors when clicked. This issue prevents users from accessing important pages of the application.
+
+10. **Title**: Incorrect Currency Conversion Rates
+    **Description**: The currency conversion rates used by the application are outdated and do not reflect current market values. This can result in incorrect pricing for international customers.
+
+11. **Title**: Missing Validation for Required Fields
+    **Description**: Required fields in a form are not properly validated, allowing users to submit incomplete data without receiving an error message. This can lead to data integrity issues.
+
+12. **Title**: Unexpected Behavior When Deleting Items from Cart
+    **Description**: When deleting items from the cart, unexpected behavior occurs, such as items reappearing or quantities not updating correctly. This issue affects the accuracy of order processing.
+
+13. **Title**: Incorrect Display of Special Characters
+    **Description**: Special characters, such as accented letters or symbols, are not displayed correctly in certain areas of the application, leading to garbled or unreadable text.
+
+14. **Title**: Broken Image Links in Email Notifications
+    **Description**: Image links in email notifications are broken, resulting in missing or placeholder images being displayed to recipients. This can negatively impact the visual appeal of the emails.
+
+15. **Title**: Incorrect Calculation of Shipping Costs
+    **Description**: The shipping costs for certain orders are calculated incorrectly, resulting in overcharging or undercharging customers for shipping fees. This issue affects order accuracy and customer satisfaction.
+
+16. **Title**: Unresponsive Buttons on Mobile Devices
+    **Description**: Buttons on certain pages of the application are unresponsive when accessed on mobile devices, preventing users from completing important actions or navigating through the app.
+
+17. **Title**: Missing Pagination Controls on Search Results Page
+    **Description**: The search results page does not include pagination controls, making it difficult for users to navigate through multiple pages of search results. This issue affects usability and user experience.
+
+18. **Title**: Unexpected Logout When Switching Tabs
+    **Description**: Users are unexpectedly logged out of their accounts when switching between tabs or performing certain actions within the application. This can result in data loss and frustration for users.
+
+19. **Title**: Incorrect Display of Date and Time Values
+    **Description**: Date and time values are displayed incorrectly in certain areas of the application, leading to confusion and potential errors when interpreting time-sensitive information.
+
+20. **Title**: Broken Checkout Process on Mobile Devices
+    **Description**: The checkout process is broken when accessed on mobile devices, preventing users from completing their purchases successfully. This issue affects mobile commerce functionality.
+
+21. **Title**: Missing Confirmation Message After Form Submission
+    **Description**: After submitting a form, no confirmation message is displayed to indicate that the submission was successful. This can lead to uncertainty about whether the action was completed successfully or not.
+
+22.**Title:**Incorrect Display Of Images On Product Page.
+   **Description:**The images on product page are not displayed correctly which makes it difficult for customers to view products before making a purchase.This issue occurs
+
+Source: Conversation with Bing, 19/09/2023
+(1) Random Name Generator — Generated full names. https://www.randomlists.com/random-names.
+(2) How to Generate Random Names in Excel - Spreadsheet Planet. https://spreadsheetplanet.com/generate-random-names-excel/.
+(3) Random Name Picker - Draw a random name (or names) from a list. https://www.gigacalculator.com/randomizers/random-name-picker.php.
+(4) Random Name Generator: 10,000+ Name Ideas | Imagine Forest. https://www.imagineforest.com/blog/random-name-generator/.
+(5) Random Name Generator — Easy Random Name Picker - Random Word Generator. https://randomwordgenerator.com/name.php.
+
+Sure! Here are 50 randomly generated example bug titles and descriptions:
+
+23. **Title**: Slow Loading Time on Home Page
+   **Description**: The home page takes an unusually long time to load, causing frustration for users who expect a quick browsing experience. This issue affects both desktop and mobile devices.
+
+24. **Title**: Broken Checkout Button on Product Page
+   **Description**: The checkout button on the product page is not functioning correctly, preventing users from proceeding with their purchase. This issue occurs consistently and affects all users.
+
+25. **Title**: Incorrect Display of Product Variants
+   **Description**: The product variants, such as size or color options, are not displayed correctly on the product page, making it difficult for users to select their desired options. This issue affects the overall user experience.
+
+26. **Title**: Missing Email Notifications for Order Updates
+   **Description**: Users are not receiving email notifications for updates on their orders, such as shipping status or delivery estimates. This can lead to confusion and uncertainty about the progress of their orders.
+
+27. **Title**: Unresponsive Search Bar on Mobile Devices
+   **Description**: The search bar on certain pages of the application is unresponsive when accessed on mobile devices, preventing users from entering search queries. This issue affects the usability of the search feature.
+
+28. **Title**: Incorrect Calculation of Tax Amount
+   **Description**: The tax amount applied to orders is calculated incorrectly, resulting in overcharging or undercharging customers for tax fees. This issue affects order accuracy and compliance with tax regulations.
+
+29. **Title**: Missing Social Media Sharing Buttons
+   **Description**: Social media sharing buttons are not displayed on product pages, preventing users from easily sharing products with their social networks. This issue affects the visibility and reach of the application.
+
+30. **Title**: Unexpected Error When Adding Items to Cart
+    **Description**: An unexpected error occurs when users try to add items to their cart, preventing successful addition and causing frustration for users. This issue occurs intermittently and is difficult to reproduce.
+
+31. **Title**: Broken Image Carousel on Homepage
+    **Description**: The image carousel on the homepage is not functioning correctly, preventing users from viewing different featured images. This issue affects the visual appeal of the homepage.
+
+32. **Title**: Missing Product Descriptions on Category Pages
+    **Description**: Product descriptions are not displayed on category pages, making it difficult for users to understand the features and benefits of each product without visiting individual product pages. This issue affects the user experience and purchase decision-making process.
+
+33. **Title**: Incorrect Display of Discounted Prices
+    **Description**: The discounted prices of products are not displayed correctly, resulting in confusion and incorrect pricing information for customers. This issue affects purchase decisions and customer satisfaction.
+
+34. **Title**: Unexpected Behavior When Applying Coupon Codes
+    **Description**: Unexpected behavior occurs when users try to apply coupon codes during checkout, such as error messages or incorrect discounts being applied. This issue affects order accuracy and customer satisfaction.
+
+35. **Title**: Missing Terms and Conditions Checkbox on Checkout Page
+    **Description**: The terms and conditions checkbox is missing from the checkout page, preventing users from agreeing to the terms before completing their purchase. This issue poses a legal compliance risk.
+
+36. **Title**: Broken Contact Form Submission
+    **Description**: When submitting the contact form, an error occurs and the form submission is not processed correctly, preventing users from contacting customer support or providing feedback. This issue affects communication with customers.
+
+37. **Title**: Incorrect Display of Shipping Address Format
+    **Description**: The shipping address format is displayed incorrectly on order confirmation pages and email notifications, leading to confusion and potential shipping errors. This issue affects order accuracy and customer satisfaction.
+
+38. **Title**: Unresponsive Customer Support Chat Widget
+    **Description**: The customer support chat widget is unresponsive when accessed by users, preventing them from seeking assistance or resolving issues in real-time. This issue affects customer support availability and response time.
+
+39. **Title**: Missing Order History in User Account Dashboard
+    **Description**: The user account dashboard does not include an order history section, making it difficult for users to track their past orders or access order details. This issue affects user convenience and post-purchase support.
+
+40.**Title:**Incorrect Display Of Images On Product Page.
+   **Description:**The images on product page are not displayed correctly which makes it difficult for customers to view products before making a purchase.This issue occurs intermittently.
+   
+41.**Title:**Incorrect Calculation Of Total Price.
+   **Description:**The total price of the order is calculated incorrectly,resulting in an incorrect amount being charged to the customer.This issue occurs when multiple items are added to cart.
+   
+42.**Title:**Images Not Loading On Product Page.
+   **Description:**The images are not loading on product page,making it difficult for customers to view products before making a purchase.This issue occurs both desktop and mobile devices.
+   
+43.**Title:**Login Page Not Secure.
+   **Description:**The login page does not have a secure connection which leaves user
+
+==================================
+==================================
+==================================
+Sure, here are some example entries in JSON format:
+
+```json
+[
+    {
+        "bugId": 1,
+        "bugStatus": 1,
+        "bugTitle": "Unexpected application crash",
+        "bugDescription": "The application crashes when clicking on the 'Save' button in the 'Profile' page.",
+        "bugPriority": 3
+    },
+    {
+        "bugId": 2,
+        "bugStatus": 2,
+        "bugTitle": "Login button not working",
+        "bugDescription": "The 'Login' button is not responding on the 'Sign In' page.",
+        "bugPriority": 2
+    },
+    {
+        "bugId": 3,
+        "bugStatus": 3,
+        "bugTitle": "Incorrect error message",
+        "bugDescription": "An incorrect error message is displayed when entering an invalid email address.",
+        "bugPriority": 1
+    }
+]
+```
+
+Each object in the array represents a bug report. The `bugId` is a unique identifier for each bug, `bugStatus` represents the status of the bug (1 for Open, 2 for In Progress, and 3 for Closed), `bugTitle` is a brief description of the bug, `bugDescription` provides more details about the bug, and `bugPriority` indicates the priority of the bug (1 for High, 2 for Medium, and 3 for Low).
+
+[
+    {
+        "bugId": 4,
+        "bugStatus": 1,
+        "bugTitle": "Page load failure",
+        "bugDescription": "The 'About Us' page fails to load when accessed from the main menu.",
+        "bugPriority": 2
+    },
+    {
+        "bugId": 5,
+        "bugStatus": 2,
+        "bugTitle": "Missing images",
+        "bugDescription": "Images on the 'Gallery' page are not displayed.",
+        "bugPriority": 3
+    },
+    {
+        "bugId": 6,
+        "bugStatus": 3,
+        "bugTitle": "Incorrect password validation",
+        "bugDescription": "The password validation allows passwords with less than 8 characters.",
+        "bugPriority": 1
+    }
+]
+
+[
+    {
+        "bugId": 7,
+        "bugStatus": 1,
+        "bugTitle": "Broken link",
+        "bugDescription": "The link to the 'Contact Us' page is broken in the footer.",
+        "bugPriority": 2
+    },
+    {
+        "bugId": 8,
+        "bugStatus": 2,
+        "bugTitle": "Misaligned text",
+        "bugDescription": "The text in the 'Services' section is not properly aligned.",
+        "bugPriority": 3
+    },
+    {
+        "bugId": 9,
+        "bugStatus": 3,
+        "bugTitle": "Form submission error",
+        "bugDescription": "An error message is displayed when trying to submit the 'Sign Up' form.",
+        "bugPriority": 1
+    }
+]
+
+[
+    {
+        "bugId": 10,
+        "bugStatus": 1,
+        "bugTitle": "Missing CSS",
+        "bugDescription": "The CSS for the 'Home' page is not loading, causing unstyled content.",
+        "bugPriority": 2
+    },
+    {
+        "bugId": 11,
+        "bugStatus": 2,
+        "bugTitle": "Database connection error",
+        "bugDescription": "An error occurs when trying to connect to the database from the 'Orders' page.",
+        "bugPriority": 1
+    },
+    {
+        "bugId": 12,
+        "bugStatus": 3,
+        "bugTitle": "Search functionality not working",
+        "bugDescription": "The search functionality on the 'Products' page is not returning any results.",
+        "bugPriority": 3
+    }
+]
+
