@@ -1,12 +1,28 @@
+LOGIN
+
+[
+    {"username": "john_doe", "password": "jd123456"},
+    {"username": "jane_smith", "password": "js123456"},
+    {"username": "bob_johnson", "password": "bj123456"},
+    {"username": "alice_williams", "password": "aw123456"},
+    {"username": "charlie_brown", "password": "cb123456"},
+    {"username": "emily_davis", "password": "ed123456"},
+    {"username": "michael_miller", "password": "mm123456"},
+    {"username": "sarah_wilson", "password": "sw123456"},
+    {"username": "james_moore", "password": "jm123456"},
+    {"username": "jessica_taylor", "password": "jt123456"}
+]
+
+======================================
+
+ACCOUNT
+
 [
     {"accountId": 101, "accountName": "John Doe", "username": "john_doe"},
     {"accountId": 102, "accountName": "Jane Smith", "username": "jane_smith"},
     {"accountId": 103, "accountName": "Bob Johnson", "username": "bob_johnson"},
     {"accountId": 104, "accountName": "Alice Williams", "username": "alice_williams"},
-    {"accountId": 105, "accountName": "Charlie Brown", "username": "charlie_brown"}
-]
-
-[
+    {"accountId": 105, "accountName": "Charlie Brown", "username": "charlie_brown"},
     {"accountId": 106, "accountName": "Emily Davis", "username": "emily_davis"},
     {"accountId": 107, "accountName": "Michael Miller", "username": "michael_miller"},
     {"accountId": 108, "accountName": "Sarah Wilson", "username": "sarah_wilson"},
@@ -16,49 +32,51 @@
 
 ============================
 
-[
-    {"username": "john_doe", "password": "jd123456"},
-    {"username": "jane_smith", "password": "js123456"},
-    {"username": "bob_johnson", "password": "bj123456"},
-    {"username": "alice_williams", "password": "aw123456"},
-    {"username": "charlie_brown", "password": "cb123456"}
-]
+BUGS
 
 [
-    {"username": "emily_davis", "password": "ed123456"},
-    {"username": "michael_miller", "password": "mm123456"},
-    {"username": "sarah_wilson", "password": "sw123456"},
-    {"username": "james_moore", "password": "jm123456"},
-    {"username": "jessica_taylor", "password": "jt123456"}
+    {"bugId": 1001, "bugStatus": 1, "bugTitle": "UI Bug", "bugDescription": "Minor UI bug causing misalignment of elements on the homepage.", "bugPriority": 3},
+    {"bugId": 1002, "bugStatus": 2, "bugTitle": "Performance Issue", "bugDescription": "The application slows down significantly when more than 100 items are added to the cart.", "bugPriority": 2},
+    {"bugId": 1003, "bugStatus": 3, "bugTitle": "Security Vulnerability", "bugDescription": "A security vulnerability was found in the user login module that could potentially allow unauthorized access.", "bugPriority": 1},
+    {"bugId": 1004, "bugStatus": 1, "bugTitle": "Deprecated API", "bugDescription": "The application uses a deprecated API for the payment gateway.", "bugPriority": 2},
+    {"bugId": 1005, "bugStatus": 2, "bugTitle": "Data Sync Bug", "bugDescription": "A bug in the data synchronization module causes outdated data to be displayed.", "bugPriority": 3},
+    {"bugId": 1006, "bugStatus": 3, "bugTitle": "Payment Gateway Bug", "bugDescription": "A bug in the payment gateway causes transactions to fail intermittently.", "bugPriority": 1},
+    {"bugId": 1007, "bugStatus": 1, "bugTitle": "Shopping Cart Issue", "bugDescription": "Items added to the shopping cart disappear after a few minutes.", "bugPriority": 2},
+    {"bugId": 1008, "bugStatus": 2, "bugTitle": "Order Tracking Bug", "bugDescription": "The order tracking system shows incorrect status for some orders.", "bugPriority": 3},
+    {"bugId": 1009, "bugStatus": 3, "bugTitle": "UI Usability Issue", "bugDescription": "Some users have reported difficulty in navigating the user interface.", "bugPriority": 2},
+    {"bugId": 1010, "bugStatus": 1, "bugTitle": "Page Load Time Bug", "bugDescription": "Some pages take a long time to load, causing a poor user experience.", "bugPriority": 3},
+    {"bugId": 1011, "bugStatus": 2, "bugTitle": "Database Connection Bug", "bugDescription": "The application fails to connect to the database intermittently.", "bugPriority": 1},
+    {"bugId": 1012, "bugStatus": 3, "bugTitle": "Product Listing Issue", "bugDescription": "Some products do not appear in the product listing page.", "bugPriority": 2},
+    {"bugId": 1013, "bugStatus": 1, "bugTitle": "User Registration Bug", "bugDescription": "New users are unable to register due to a validation error.", "bugPriority": 3},
+    {"bugId": 1014, "bugStatus": 2, "bugTitle": "Performance Improvement", "bugDescription": "The application performance needs to be improved for better user experience.", "bugPriority": 2},
+    {"bugId": 1015, "bugStatus": 3, "bugTitle": "Data Display Bug", "bugDescription": "Incorrect data is displayed on the user profile page.", "bugPriority": 3},
+    {"bugId": 1016, "bugStatus": 1, "bugTitle": "Search Functionality Bug", "bugDescription": "The search functionality returns incorrect results.", "bugPriority": 2},
+    {"bugId": 1017, "bugStatus": 2, "bugTitle": "Email Notification Issue", "bugDescription": "Users are not receiving email notifications.", "bugPriority": 3},
+    {"bugId": 1018, "bugStatus": 3, "bugTitle": "Data Backup Bug", "bugDescription": "The data backup process fails intermittently.", "bugPriority": 1},
+    {"bugId": 1019, "bugStatus": 1, "bugTitle": "User Interface Improvement", "bugDescription": "The user interface needs to be updated for better accessibility.", "bugPriority": 2},
+    {"bugId": 1020, "bugStatus": 2, "bugTitle": "Data Loss Bug", "bugDescription": "A bug causing data loss when updating user profiles.", "bugPriority": 3}
 ]
 
 =============================
+
+UPDATE
 
 [
     {"bugId": 1001, "accountId": 101, "updateDate": "2023-09-25", "updateDetails": "Fixed a minor UI bug"},
     {"bugId": 1002, "accountId": 102, "updateDate": "2023-09-24", "updateDetails": "Resolved performance issue"},
     {"bugId": 1003, "accountId": 103, "updateDate": "2023-09-23", "updateDetails": "Patched security vulnerability"},
     {"bugId": 1004, "accountId": 104, "updateDate": "2023-09-22", "updateDetails": "Updated deprecated API calls"},
-    {"bugId": 1005, "accountId": 105, "updateDate": "2023-09-21", "updateDetails": "Corrected data synchronization bug"}
-]
-
-[
+    {"bugId": 1005, "accountId": 105, "updateDate": "2023-09-21", "updateDetails": "Corrected data synchronization bug"},
     {"bugId": 1006, "accountId": 106, "updateDate": "2023-09-20", "updateDetails": "Fixed a bug causing app crashes"},
     {"bugId": 1007, "accountId": 107, "updateDate": "2023-09-19", "updateDetails": "Resolved issue with user login"},
     {"bugId": 1008, "accountId": 108, "updateDate": "2023-09-18", "updateDetails": "Patched a memory leak issue"},
     {"bugId": 1009, "accountId": 109, "updateDate": "2023-09-17", "updateDetails": "Updated the app to support the latest OS version"},
-    {"bugId": 1010, "accountId": 110, "updateDate": "2023-09-16", "updateDetails": "Corrected a data loss issue"}
-]
-
-[
+    {"bugId": 1010, "accountId": 110, "updateDate": "2023-09-16", "updateDetails": "Corrected a data loss issue"},
     {"bugId": 1011, "accountId": 111, "updateDate": "2023-09-15", "updateDetails": "Fixed a bug in the payment gateway"},
     {"bugId": 1012, "accountId": 112, "updateDate": "2023-09-14", "updateDetails": "Resolved an issue with the shopping cart"},
     {"bugId": 1013, "accountId": 113, "updateDate": "2023-09-13", "updateDetails": "Patched a bug in the user registration module"},
     {"bugId": 1014, "accountId": 114, "updateDate": "2023-09-12", "updateDetails": "Updated the database to improve performance"},
-    {"bugId": 1015, "accountId": 115, "updateDate": "2023-09-11", "updateDetails": "Corrected a bug causing incorrect data display"}
-]
-
-[
+    {"bugId": 1015, "accountId": 115, "updateDate": "2023-09-11", "updateDetails": "Corrected a bug causing incorrect data display"},
     {"bugId": 1016, "accountId": 116, "updateDate": "2023-09-10", "updateDetails": "Fixed a bug in the search functionality"},
     {"bugId": 1017, "accountId": 117, "updateDate": "2023-09-09", "updateDetails": "Resolved an issue with the product listing"},
     {"bugId": 1018, "accountId": 118, "updateDate": "2023-09-08", "updateDetails": "Patched a bug in the order tracking system"},
@@ -66,37 +84,3 @@
     {"bugId": 1020, "accountId": 120, "updateDate": "2023-09-06", "updateDetails": "Corrected a bug causing slow page load times"}
 ]
 
-======================================
-
-[
-    {"bugId": 1001, "bugStatus": 1, "bugTitle": "UI Bug", "bugDescription": "Minor UI bug causing misalignment of elements on the homepage.", "bugPriority": 3},
-    {"bugId": 1002, "bugStatus": 2, "bugTitle": "Performance Issue", "bugDescription": "The application slows down significantly when more than 100 items are added to the cart.", "bugPriority": 2},
-    {"bugId": 1003, "bugStatus": 3, "bugTitle": "Security Vulnerability", "bugDescription": "A security vulnerability was found in the user login module that could potentially allow unauthorized access.", "bugPriority": 1},
-    {"bugId": 1004, "bugStatus": 1, "bugTitle": "Deprecated API", "bugDescription": "The application uses a deprecated API for the payment gateway.", "bugPriority": 2},
-    {"bugId": 1005, "bugStatus": 2, "bugTitle": "Data Sync Bug", "bugDescription": "A bug in the data synchronization module causes outdated data to be displayed.", "bugPriority": 3}
-]
-
-[
-    {"bugId": 1006, "bugStatus": 3, "bugTitle": "Payment Gateway Bug", "bugDescription": "A bug in the payment gateway causes transactions to fail intermittently.", "bugPriority": 1},
-    {"bugId": 1007, "bugStatus": 1, "bugTitle": "Shopping Cart Issue", "bugDescription": "Items added to the shopping cart disappear after a few minutes.", "bugPriority": 2},
-    {"bugId": 1008, "bugStatus": 2, "bugTitle": "Order Tracking Bug", "bugDescription": "The order tracking system shows incorrect status for some orders.", "bugPriority": 3},
-    {"bugId": 1009, "bugStatus": 3, "bugTitle": "UI Usability Issue", "bugDescription": "Some users have reported difficulty in navigating the user interface.", "bugPriority": 2},
-    {"bugId": 1010, "bugStatus": 1, "bugTitle": "Page Load Time Bug", "bugDescription": "Some pages take a long time to load, causing a poor user experience.", "bugPriority": 3}
-]
-
-
-[
-    {"bugId": 1011, "bugStatus": 2, "bugTitle": "Database Connection Bug", "bugDescription": "The application fails to connect to the database intermittently.", "bugPriority": 1},
-    {"bugId": 1012, "bugStatus": 3, "bugTitle": "Product Listing Issue", "bugDescription": "Some products do not appear in the product listing page.", "bugPriority": 2},
-    {"bugId": 1013, "bugStatus": 1, "bugTitle": "User Registration Bug", "bugDescription": "New users are unable to register due to a validation error.", "bugPriority": 3},
-    {"bugId": 1014, "bugStatus": 2, "bugTitle": "Performance Improvement", "bugDescription": "The application performance needs to be improved for better user experience.", "bugPriority": 2},
-    {"bugId": 1015, "bugStatus": 3, "bugTitle": "Data Display Bug", "bugDescription": "Incorrect data is displayed on the user profile page.", "bugPriority": 3}
-]
-
-[
-    {"bugId": 1016, "bugStatus": 1, "bugTitle": "Search Functionality Bug", "bugDescription": "The search functionality returns incorrect results.", "bugPriority": 2},
-    {"bugId": 1017, "bugStatus": 2, "bugTitle": "Email Notification Issue", "bugDescription": "Users are not receiving email notifications.", "bugPriority": 3},
-    {"bugId": 1018, "bugStatus": 3, "bugTitle": "Data Backup Bug", "bugDescription": "The data backup process fails intermittently.", "bugPriority": 1},
-    {"bugId": 1019, "bugStatus": 1, "bugTitle": "User Interface Improvement", "bugDescription": "The user interface needs to be updated for better accessibility.", "bugPriority": 2},
-    {"bugId": 1020, "bugStatus": 2, "bugTitle": "Data Loss Bug", "bugDescription": "A bug causing data loss when updating user profiles.", "bugPriority": 3}
-]
