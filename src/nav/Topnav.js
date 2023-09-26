@@ -4,9 +4,13 @@ import React from 'react';
 
 function Topnav(){
     return(
-        <div className='Topnav'>
-            <header className='App-header'>Topnav</header>
-            <header className='Topnav-Header'>Topnav 2</header>
+        <div class="flex-container">
+            <div>Home</div>
+            <div>Statistics</div>
+            <div>My Bugs</div>
+            <div></div>
+            <div>Account</div>
+            <div>Login</div>
         </div>
     )
 }
