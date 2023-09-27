@@ -11,4 +11,4 @@ function Footer(){
     )
 }
 
-export default Topnav;
+export default Footer;
