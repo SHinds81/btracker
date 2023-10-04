@@ -1,4 +1,4 @@
-import '../index.css';
+import '../App.css'
 import './Topnav.css';
 import React from 'react';
 

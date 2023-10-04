@@ -1,4 +1,4 @@
-import '../index.css';
+import '../App.css';
 import React from 'react';
 
 function Home(){
